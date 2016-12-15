@@ -1,2 +1,1 @@
-# coolFM
-Cool Filemanager
+fm
