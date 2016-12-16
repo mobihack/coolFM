@@ -88,7 +88,7 @@ $(function(){
 			if(!search.val().trim().length) {
 
 				window.location.hash = encodeURIComponent(currentPath);
-				search.hide();
+				//search.hide();
 				search.parent().find('span').show();
 
 			}
