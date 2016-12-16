@@ -36,7 +36,7 @@ $(function(){
 
 			var search = $(this);
 
-			search.find('span').hide();
+			//search.find('span').hide();
 			search.find('input[type=search]').show().focus();
 
 		});
