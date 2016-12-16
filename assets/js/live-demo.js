@@ -110,7 +110,7 @@ $(function(){
 				breadcrumbsUrls = generateBreadcrumbs(nextDir);
 
 				filemanager.removeClass('searching');
-				filemanager.find('input[type=search]').val('').hide();
+				//filemanager.find('input[type=search]').val('').hide();
 				filemanager.find('span').show();
 			}
 			else {
