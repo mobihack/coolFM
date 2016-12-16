@@ -75,7 +75,7 @@ $(function(){
 
 			if(e.keyCode == 27) {
 
-				search.trigger('focusout');
+				//search.trigger('focusout');
 
 			}
 
